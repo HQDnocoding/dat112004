@@ -1,0 +1,3 @@
+Hiện tại thì chưa trả lời tốt hoặc không trả lời được các câu hỏi mang tính cảm nhận ( hay, dở,...) hoặc các câu hỏi quá dài. Sẽ cải thiện
+Sẽ thêm khả năng hội thoại, ghi nhớ được câu hỏi đã hỏi
+...
